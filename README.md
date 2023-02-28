@@ -32,10 +32,10 @@ In this step, we will gather the necessary data and perform initial data cleanin
 * destroy_degree - the degree of wear / level of damage
 * fix_date - repair date
 ```
-```driver_info.csv``` - driver's profile information: This includes information on riders and drivers, such as age, gender, user_rating and driving history.
+```driver_info.csv``` - driver profile information: This includes information on riders and drivers, such as age, gender, user_rating and driving history.
 ```sh
 * user_id / age / sex - socio-demographic variables
-* user_rating - driver's rating by the end of 2021
+* user_rating - driver rating by the end of 2021
 * user_rides - total number of rides in 2021 year
 * user_time_accident - number of car accident
 * first_ride_date - first ride date
