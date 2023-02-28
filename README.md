@@ -7,11 +7,11 @@ This Case Study was completed as part of the Google Data Analytics Professional 
 
 The objective of this data analysis project is to gain insights into car repair and maintenance needs based on general car information, rider and driver data. To achieve this objective, we need to answer the following questions:
 
-Are there any patterns in rider/driver behavior that are correlated with repair needs?
-What are the most common types of repairs needed for different car models?
-What are the most common car models used by riders and drivers?
-How does the age of a car impact repair needs?
-Are there any trends in the type of repairs needed based on fuel type?
+- Are there any patterns in rider/driver behavior that are correlated with repair needs?
+- What are the most common types of repairs needed for different car models?
+- What are the most common car models used by riders and drivers?
+- How does the age of a car impact repair needs?
+- Are there any trends in the type of repairs needed based on fuel type?
 
 
 #### 2. Prepare Phase
