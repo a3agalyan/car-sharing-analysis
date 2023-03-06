@@ -26,8 +26,10 @@ This includes information on the car model, fuel type, and year of production.
 This includes information on the type of repairs needed for each car and the damage degree.
 
 ```driver_info.csv``` - driver profile information. 
-This includes information on riders and drivers, such as age, gender, user_rating and driving history.
+This includes information on drivers, such as age, gender, user_rating and driving history.
 
+```rides_info.csv``` - rides information. 
+This includes information on rides such as speed_avg / speed_max, stop_times / refueling, user_ride_quality.
 
 #### 3. Process Phase
 
@@ -42,11 +44,11 @@ In this step, we will perform data cleaning and data transformation to prepare t
 
 In this step, we will use statistical and analytical tools to analyze the data and answer the questions posed in the objective. This includes:
 
-- Identifying the most common car models used by riders using frequency analysis and correlation analysis.
-- Analyzing how the age of a car impacts repair needs using regression analysis and time series analysis.
-- Identifying the most common types of repairs needed for different car models using cluster analysis and decision tree analysis.
-- Identifying any trends in the type of repairs needed based on fuel type using correlation analysis.
-- Analyzing patterns in driver behavior that are correlated with repair needs using correlation analysis and regression analysis.
+- Identifying the most common car models used by riders;
+- Analyzing how the age of a car impacts repair needs;
+- Identifying the most common types of repairs needed for different car models using time series analysis;
+- Identifying any trends in the type of repairs needed based on fuel type using correlation analysis;
+- Analyzing patterns in driver behavior that are correlated with repair needs.
 
 
 #### 5. Share Phase
