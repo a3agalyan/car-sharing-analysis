@@ -22,9 +22,6 @@ In this step, we will gather the necessary data and perform initial data cleanin
 ```car_train.csv``` - general car information.
 This includes information on the car model, fuel type, and year of production.
 
-```fix_info.csv``` - car repair and maintenance reports. 
-This includes information on the type of repairs needed for each car and the damage degree.
-
 ```driver_info.csv``` - driver profile information. 
 This includes information on drivers, such as age, gender, user_rating and driving history.
 
