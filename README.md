@@ -50,7 +50,7 @@ In this step, we will use statistical and analytical tools to analyze the data a
 - Creating visualizations and reports to communicate the analysis results clearly and effectively.
 - Presenting the findings to management and other stakeholders.
 - Soliciting feedback and addressing any concerns or questions.
-Visualisations were created using Tableau. Published here https://public.tableau.com/views/
+Visualisations were created using Tableau. Published here https://public.tableau.com/app/profile/armen.agalyan
 
 #### 6. Act Phase
 
